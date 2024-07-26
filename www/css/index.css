@@ -55,11 +55,13 @@ body {
     margin-bottom: 10px;
 }
 .post h2 {
+    color: #0f013e;
     margin-top: 0;
     font-size: 14px;
     text-transform: uppercase;
 }
 .post p {
+    color: #0f013e;
     margin-bottom: 0;
     font-size: 14px;
 }
