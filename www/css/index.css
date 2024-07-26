@@ -71,6 +71,7 @@ form {
 
 label{
     display: block;
+    color: #0f013e;
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
